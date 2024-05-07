@@ -4,7 +4,7 @@ This python module is an easy-to-use port of the text normalization used in the 
 
 ## Installation
 ```bash
-$ pip install git+https://github.com/csebuetnlp/normalizer
+$ pip install csebuetnlp-normalizer
 ```
 
 ## Usage
